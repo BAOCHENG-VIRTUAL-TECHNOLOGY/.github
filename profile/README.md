@@ -1,8 +1,7 @@
 # 宝成虚拟技术 :computer:
 
-| Content       |                                     |
-| ------------- | ----------------------------------- |
-| Unity Client  |                                     |
-| Unreal Client |                                     |
-| 腾娱互动      | CSharp<br />Unreal Dedicated Server |
+| Content  |                                             |
+| -------- | ------------------------------------------- |
+| 腾娱互动 | CSharp<br />Unreal Dedicated Server         |
+| CLIENT   | Unity<br />Lua<br />C#<br />Unreal<br />C++ |
 
