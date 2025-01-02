@@ -2,9 +2,7 @@
 
 | Content |      |
 | ------- | ---- |
-| Lua     |      |
-| C++     |      |
 | Unity   |      |
-| CSharp  |      |
+| Cocos   |      |
 | Unreal  |      |
 
